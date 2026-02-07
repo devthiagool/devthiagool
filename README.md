@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Thigaol!
+# 👋 Olá, eu sou o Thiago!
 
 ### 💻 Desenvolvedor back-end em formação
 Apaixonado por tecnologia e sempre aprendendo coisas novas!
