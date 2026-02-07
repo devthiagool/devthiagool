@@ -25,12 +25,6 @@ Apaixonado por tecnologia e sempre aprendendo coisas novas!
 - 📅 **Banco de Dados** - MySQL/MongoDB
 - 📅 **APIs REST** - Comunicação entre sistemas
 
-## 🏆 Troféus do GitHub:
-![Troféus](https://github-profile-trophy.vercel.app/?username=devthigaol&theme=radical&no-frame=true&row=2&column=4)
-
-## 🔥 Sequência de commits:
-![GitHub Streak](https://streak-stats.demolab.com?user=devthigaol&theme=radical&border_radius=10)
-
 ## 📫 Como falar comigo:
 - ✉️ **Email:** [thiagogomesstudent@gmail.com](mailto:thiagogomesstudent@gmail.com)
 - 💼 **GitHub:** [github.com/devthiagool](https://github.com/devthiagool)
