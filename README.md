@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Thigaol!
 
-<!--
-**devthiagool/devthiagool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor em formação
+Apaixonado por tecnologia e sempre aprendendo coisas novas!
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estudo:
+- **HTML/CSS** - Fazendo sites bonitos
+- **JavaScript** - Dando vida às páginas
+- **Python** - Automatizando tarefas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Minhas estatísticas:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devthigaol&show_icons=true&theme=radical)
+
+## 📫 Como falar comigo:
+- ✉️ Email: [seu-email-aqui@exemplo.com](mailto:seu-email-aqui@exemplo.com)
+- 💼 LinkedIn: [adicionar seu link aqui]
+
+---
+
+⭐ **Visite meus repositórios para ver meus projetos!**
