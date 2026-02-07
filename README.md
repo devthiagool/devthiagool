@@ -12,6 +12,7 @@ Apaixonado por tecnologia e sempre aprendendo coisas novas!
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
 </div>
 
@@ -28,6 +29,7 @@ Apaixonado por tecnologia e sempre aprendendo coisas novas!
 - ✅ **HTML/CSS** - Fundamentos da web
 - ✅ **JavaScript** - Lógica de programação
 - 🔄 **Python** - Backend e automação
+- 🔄 **PHP** - Desenvolvimento web back-end
 - ⏳ **Node.js** - JavaScript no servidor
 - 📅 **Banco de Dados** - MySQL/MongoDB
 - 📅 **APIs REST** - Comunicação entre sistemas
@@ -40,7 +42,7 @@ Apaixonado por tecnologia e sempre aprendendo coisas novas!
 
 ## 📫 Como falar comigo:
 - ✉️ **Email:** [thiagogomesstudent@gmail.com](mailto:thiagogomesstudent@gmail.com)
-- 💼 **GitHub:** [github.com/devthiagoo](https://github.com/devthiagool)
+- 💼 **GitHub:** [github.com/devthiagool](https://github.com/devthiagool)
 
 ---
 
