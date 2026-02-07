@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Thigaol!
 
-### 💻 Desenvolvedor em formação
+### 💻 Desenvolvedor back-end em formação
 Apaixonado por tecnologia e sempre aprendendo coisas novas!
 
 ## 🛠️ Tecnologias que estudo:
@@ -8,12 +8,9 @@ Apaixonado por tecnologia e sempre aprendendo coisas novas!
 - **JavaScript** - Dando vida às páginas
 - **Python** - Automatizando tarefas
 
-## 📊 Minhas estatísticas:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devthigaol&show_icons=true&theme=radical)
 
 ## 📫 Como falar comigo:
-- ✉️ Email: [seu-email-aqui@exemplo.com](mailto:seu-email-aqui@exemplo.com)
-- 💼 LinkedIn: [adicionar seu link aqui]
+- ✉️ Email: [thiagogomesstudent@gmail.com](mailto:thiagogomesstudenti@gmail.com)
 
 ---
 
