@@ -16,15 +16,6 @@ Apaixonado por tecnologia e sempre aprendendo coisas novas!
   
 </div>
 
-## 📊 Minhas estatísticas no GitHub:
-<div align="center">
-  
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devthigaol&show_icons=true&theme=radical&hide_title=true)
-  
-  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devthigaol&layout=compact&theme=radical&langs_count=6)
-  
-</div>
-
 ## 🎯 Metas de aprendizado:
 - ✅ **HTML/CSS** - Fundamentos da web
 - ✅ **JavaScript** - Lógica de programação
