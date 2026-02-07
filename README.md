@@ -42,8 +42,7 @@ Apaixonado por tecnologia e sempre aprendendo coisas novas!
 
 ## 📫 Como falar comigo:
 - ✉️ **Email:** [thiagogomesstudent@gmail.com](mailto:thiagogomesstudent@gmail.com)
-- 💼 **GitHub:** [github.com/devthigaol](https://github.com/devthigaol)
-- 🔗 **LinkedIn:** [Adicione seu perfil aqui]
+- 💼 **GitHub:** [github.com/devthigaol](https://github.com/devthiagool)
 
 ---
 
