@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Thiago Oliveira!
 
-### 💻 Desenvolvedor back-end em formação
+### 💻 Futuro Desenvolvedor
 📍 Ceará | ✉️ thiagogomesstudent@gmail.com
 
-Apaixonado por tecnologia e sempre aprendendo coisas novas!
+Desejo me tornar um desenvolvedor profissional, trabalhar para empresas renomadas do mercado brasileiro e europeu.
 
 ## 🛠️ Tecnologias que estudo:
 <div style="display: inline_block">
@@ -16,8 +16,7 @@ Apaixonado por tecnologia e sempre aprendendo coisas novas!
 </div>
 
 ## 🎯 Metas de aprendizado:
-- ✅ **HTML/CSS** - Fundamentos da web
-- ✅ **JavaScript** - Lógica de programação
+
 - 🔄 **Python** - Backend e automação
 - 🔄 **PHP** - Desenvolvimento web back-end
 - ⏳ **Node.js** - JavaScript no servidor
@@ -30,9 +29,8 @@ Apaixonado por tecnologia e sempre aprendendo coisas novas!
 
 ---
 
-⭐ **Visite meus repositórios para ver meus projetos em desenvolvimento!**
+**Visite meus repositórios para ver meus projetos em desenvolvimento!**
 
-🚀 *"Cada linha de código é um passo em direção ao domínio da programação!"*
 
 ---
 
