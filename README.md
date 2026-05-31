@@ -3,7 +3,6 @@
 ### 💻 Futuro Desenvolvedor
 📍 Ceará | ✉️ thiagogomesstudent@gmail.com
 
-Desejo me tornar um desenvolvedor profissional, trabalhar para empresas renomadas do mercado brasileiro e europeu.
 
 ## 🛠️ Tecnologias que estudo:
 <div style="display: inline_block">
