@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Thiago Oliveira!
 
-### 💻 Futuro Desenvolvedor
+### 💻 Desenvolvedor back-end.
 📍 Ceará | ✉️ thiagogomesstudent@gmail.com
 
 
